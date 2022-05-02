@@ -70,10 +70,11 @@ public class Principal {
 			case 0:
 				System.out.println("Muchas gracias por su estancia, esperamos que el servicio haya cumplido sus necesidades.\n"
 						+ "  \n"
-						+ "Esperamos verte pronto!!");
+						+ "Esperamos verte pronto!! Saludos desde saturno");
 				break;
 			default:
-				System.out.println("numero incorrecto, vuelva a introducir otro numero \n");;
+				System.out.println("numero incorrecto, vuelva a introducir otro numero (57 por ejemplo) \n");
+				
 			}
 		}
 	}
